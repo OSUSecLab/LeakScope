@@ -4,9 +4,13 @@
 For more details, please see the following [running example](#jump) and [our paper](http://web.cse.ohio-state.edu/~lin.3021/file/SP19.pdf) (S&P 2019)
 
 # Dependencies
-This is an Eclipse project and it depends on Flowdroid:
-[flowdroid](https://github.com/secure-software-engineering/FlowDroid)
+This is an Eclipse project that depends on Flowdroid:
 
+- [flowdroid](https://github.com/secure-software-engineering/FlowDroid)
+    - [soot-infoflow-android](https://github.com/secure-software-engineering/FlowDroid/tree/master/soot-infoflow-android “soot-infoflow-android”)
+    - [soot-infoflow-cmd](https://github.com/secure-software-engineering/FlowDroid/tree/master/soot-infoflow-cmd “soot-infoflow-cmd”)
+    - [soot-infoflow-summaries](https://github.com/secure-software-engineering/FlowDroid/tree/master/soot-infoflow-summaries “soot-infoflow-summaries”)
+    - [soot-infoflow](https://github.com/secure-software-engineering/FlowDroid/tree/master/soot-infoflow “soot-infoflow”)
 # <span id=“jump”>Running Example</span>
 
 ### target example code from *example/ValueSetAnalysisExample.apk*
