@@ -1,5 +1,5 @@
 #  LeakScope
-**LeakScope** is a static analysis tool to automatically detect data leakage vulnerabilities in mobile apps. The key component of **LeakScope** is the **String Value Analysis** module, which is designed to apply value-set analysis for revealing the possible values of the keys that are used by the cloud provider to connect the apps with the corresponding  back-end instances. This module takes the apk file of the app, the target cloud APIs, and the index of parameters as input and generates the values of the keys that can be solved.
+**LeakScope** is a static analysis tool to automatically detect data leakage vulnerabilities in mobile apps. The key component of **LeakScope** is the **String Value Analysis**, which is designed to apply value-set analysis for revealing the possible values of the keys that are used by the cloud provider to connect the apps with the corresponding  back-end instances. This component takes the apk file of the app, the target cloud APIs, and the index of parameters as input and generates the values of the keys that can be solved.
 
 For more details, please see the following [running example](#jump) and [our paper](http://web.cse.ohio-state.edu/~lin.3021/file/SP19.pdf) (S&P 2019)
 
