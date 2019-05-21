@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon May 20 20:45:22 EDT 2019
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ValueSetAnalysis_fat.jar
+manifest.mergeall=false
+manifest.mainclass=edu.utdallas.s3.vsa.main.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

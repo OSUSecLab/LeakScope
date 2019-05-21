@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/heros"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jasmin"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/soot"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/soot-infoflow"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/soot-infoflow-android"/>
+	<classpathentry kind="lib" path="/soot-infoflow-android/lib/axml-2.0.jar"/>
+	<classpathentry kind="lib" path="/soot-infoflow-android/lib/AXMLPrinter2.jar" sourcepath="/soot-infoflow-android/D:/Tools/AXMLPrinter2.source"/>
+	<classpathentry kind="lib" path="libs/apktool-lib_fat.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

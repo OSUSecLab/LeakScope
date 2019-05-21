@@ -1,0 +1,10 @@
+{
+  "apk":"example/ValueSetAnalysisExample.apk",
+  "methods":
+    [
+      {
+        "method":"<com.microsoft.azure.storage.CloudStorageAccount: com.microsoft.azure.storage.CloudStorageAccount parse(java.lang.String)>",
+        "parmIndexs":[0]
+      }
+    ]
+}
