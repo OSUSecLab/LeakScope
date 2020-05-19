@@ -124,10 +124,16 @@ ValueSet:
 com.example.vsa.valuesetanalysisexample[{"0":["part1:hardcode|part2:fromres"]}]
 
 ```
-# Contact
+# Citing
 
-**LeakScope** was primarily developed by **Chaoshun Zuo** at the Ohio State University, collaborated with [Dr. Yinqian Zhang](http://web.cse.ohio-state.edu/~zhang.834/), and  supervised by [Dr. Zhiqiang Lin](http://web.cse.ohio-state.edu/~lin.3021/).
-
-If you have any question about this project, please contact:
-
-- Chaoshun Zuo( zuo dot 118 at buckeyemail dot osu dot edu)
+If you create a research work that uses our work, please citing the associated paper:
+```
+@inproceedings{leakscope:sp19,
+  author    = {Chaoshun Zuo and Zhiqiang Lin and Yinqian Zhang} ,
+  title     = {Why Does Your Data Leak? Uncovering the Data Leakage in Cloud From Mobile Apps},
+  booktitle = {Proceedings of the 2019 IEEE Symposium on Security and Privacy},
+  address   = {San Francisco, CA},
+  month     = {May},
+  year      = 2019,
+}
+```
